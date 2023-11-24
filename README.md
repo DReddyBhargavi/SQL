@@ -14,6 +14,6 @@ This dataset contains information about website metrics, including visits, trans
 
 ## Data Source
 
-The dataset can be found at [link_to_dataset](bigquery-public-data.google_analytics_sample)Please refer to the source for any specific data-related questions.
+The dataset can be found at [link_to_dataset](https://console.cloud.google.com/bigquery?project=teak-frame-403608&ws=!1m10!1m4!1m3!1steak-frame-403608!2sbquxjob_621c6f2d_18ba49c4a4f!3sUS!1m4!4m3!1sbigquery-public-data!2sgoogle_analytics_sample!3sga_sessions_20170801)Please refer to the source for any specific data-related questions.
 
 
