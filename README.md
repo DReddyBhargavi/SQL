@@ -1,7 +1,6 @@
-# SQL
-# 
+# Website Metrics Dataset
 
-This dataset contains information about , including visits, transactions, and revenue. The main segmentation levels include device types, geographical information, and campaign names.
+This dataset contains information about website metrics, including visits, transactions, and revenue. The main segmentation levels include device types, geographical information, and campaign names.
 
 ## Dataset Schema
 
@@ -15,6 +14,6 @@ This dataset contains information about , including visits, transactions, and re
 
 ## Data Source
 
-The dataset can be found at [bigquery-public-data.google_analytics_sample.ga_sessions_20170801](bigquery-public-data.google_analytics_sample.ga_sessions_20170801). Please refer to the source for any specific data-related questions.
+The dataset can be found at [link_to_dataset](bigquery-public-data.google_analytics_sample.ga_sessions_20170801`). Please refer to the source for any specific data-related questions.
 
 
