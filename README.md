@@ -8,12 +8,12 @@ This dataset contains information about website metrics, including visits, trans
 - **country**: Country of the visitor
 - **device_type**: Type of device (e.g., mobile, desktop)
 - **campaign_name**: Name of the marketing campaign
-- **visits**: Number of visits
+- **visits**: Number of visits                               
 - **transactions**: Number of transactions
 - **revenue**: Revenue generated
 
 ## Data Source
 
-The dataset can be found at [link_to_dataset](bigquery-public-data.google_analytics_sample.ga_sessions_20170801) Please refer to the source for any specific data-related questions.
+The dataset can be found at [link_to_dataset](bigquery-public-data.google_analytics_sample)Please refer to the source for any specific data-related questions.
 
 
