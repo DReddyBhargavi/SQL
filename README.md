@@ -14,6 +14,7 @@ This dataset contains information about website metrics, including visits, trans
 
 ## Data Source
 
-The dataset can be found at [link_to_dataset]()Please refer to the source for any specific data-related questions.
+The dataset can be found at fully id table `bigquery-public-data.google_analytics_sample.ga_sessions_20170801`
+Please refer to the source for any specific data-related questions.
 
 
